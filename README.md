@@ -12,6 +12,12 @@
 | HttpServer.cc | |
 | http333d.cc | |
 
+| Test Files | |
+| --- | --- |
+| test_serversocket.cc | |
+| test_filereader.cc | |
+| test_httpconnection.cc | |
+
 ## Security
 This web server is able to defend against cross-site scripting and directory traversal attack
 ## Memory Check
